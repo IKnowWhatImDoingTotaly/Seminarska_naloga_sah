@@ -26,7 +26,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-public class Sah3 extends Application {
+public class Sah extends Application {
 
     //Barve
     private static final Color SVETLO        = Color.web("#f0d9b5");
